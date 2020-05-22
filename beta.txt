@@ -41,3 +41,23 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 231  bytes 18256 (18.2 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 Hora: 11:18 a.m
+Carlos Calvo, 
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::edf5:d61:8903:7049  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:0c:45:1f  txqueuelen 1000  (Ethernet)
+        RX packets 78764  bytes 95776125 (95.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 16009  bytes 1034213 (1.0 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 305  bytes 27025 (27.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 305  bytes 27025 (27.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+vie may 22 11:54:44 -03 2020
