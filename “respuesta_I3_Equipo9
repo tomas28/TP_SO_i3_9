@@ -3,3 +3,4 @@ Respuestas
 1- El master está intacto, es decir, ninguno de todos los cambios que hicimos lo afectó.
 b- si, beta puede ver todos los cambios que se hicieron
 c- si, quedan con datos actualizados
+d- Se tuvo que intentar varias veces el merge, primero se hizo al revés, se llevó de master a garcia, se arregló el error y luego se hizo el correcto merge de garcia a master
