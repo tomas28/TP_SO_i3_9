@@ -1,0 +1,151 @@
+Patricio Tomas Garcia:
+ 4  git clone https://github.com/tomas28/TP_SO_i3_9
+    5  git check out Diaz
+    6  git checkout Diaz
+    7  git checkout diaz
+    8  git add .
+    9  git commit -m "beta"
+   10  git config --global user.email "you@example.com"
+   11  git config --global patricio_garcia28@hotmail.com
+   12  git config --global user.email patricio_garcia28@hotmail.com
+   13  git config --global user.name tomas28
+   14  git commit -m "beta"
+   15  git push
+
+Carlos Calvo:
+1 git clone --branch diaz https://github.com/tomas28/TP_SO_i3_9
+82 ls
+83 cd TP_SO_i3_9/
+84 ls
+85 ifconfig >> datos.txt
+86 cat datos.txt
+87 cd ..
+88 git clone --branch diaz https://github.com/tomas28/TP_SO_i3_9
+89 git pull --branch diaz https://github.com/tomas28/TP_SO_i3_9
+90 cd TP_SO_i3_9/
+91 git pull --branch diaz https://github.com/tomas28/TP_SO_i3_9
+92 git
+93 git status
+94 git checkout datos.txt
+95 cat datos.txt
+96 ip
+97 ip address
+98 ipconfig
+99 ifconfig
+100 iconfig
+101 echo "Carlos Calvo, 192.168.0.35, 10:21 a.m" >> datos.txt
+102 cat datos.txt
+103 sudo su
+104 ls
+105 cat CPUAlfa.txt
+106 git status
+107 git add datos.txt
+108 git add CPUAlfa.txt
+109 git status
+110 git commit -m "alfa"
+111 git config --global user.email "carlospcalvo@github.com"
+112 git commit -m "alfa"
+113 git push
+114 time
+115 man time
+116 date
+117 cd..
+118 cd ..
+119 ifconfig | date > testdate.txt
+120 cat testdate.txt
+121 ifconfig || date > testdate.txt
+122 cat testdate.txt
+123 ifconfig >> testdate.txt
+124 cat testdate.txt
+125 cd TP_SO_i3_9/
+126 git pull
+127 ls -la
+128 ls CPUBeta.txt
+129 cat CPUBeta.txt
+130 git pull --branch garcia https://github.com/tomas28/TP_SO_i3_9
+131* git clone -b garcia
+132 git clone -b garcia https://github.com/tomas28/TP_SO_i3_9
+133 ls
+134 rm TP_SO_i3_9/
+135 rmdir -r TP_SO_i3_9/
+136 rm -r TP_SO_i3_9/
+137 y
+138 ls
+139 cd ..
+140 git clone -b garcia https://github.com/tomas28/TP_SO_i3_9
+141 git merge
+142 git branch
+143 git branch garcia https://github.com/tomas28/TP_SO_i3_9
+144 git pull -b garcia https://github.com/tomas28/TP_SO_i3_9
+145 git pull
+146 cd TP_SO_i3_9/
+147 git pull
+148 ls
+149 git branch --show-current
+150 git branch --list
+151 cd ..
+152 git branch garcia
+153 cd TP_SO_i3_9/
+154 git branch garcia
+155 ls
+156 git branch --list
+157 git checkout garcia
+158 ls
+159 git branch --list
+160 ls -la
+161 git pull
+162 git branch --set-upstream-to=origin/ garcia
+163 git switch garcia
+164 git fetch
+165 ls
+166 git
+167 git pull
+168 git pull remote garcia
+169 git pull https://github.com/tomas28/TP_SO_i3_9 garcia
+170 ls
+171 "Carlos Calvo" >>
+172 "Carlos Calvo, " >> beta.txt
+173 echo "Carlos Calvo, " >> beta.txt
+174 cat beta.txt
+175 ifconfig >> beta.txt
+176 cat beta.txt
+177 date >> beta.txt
+178 cat beta.txt
+179 git status
+180 git commit -m alfa
+181 git add
+182 git add beta.txt
+183 git status
+184 git commit -m alfa
+185 git push
+186 git push --set-upstream origin garcia
+
+Diaz, Lautaro Nicolas:
+446 git clone https://github.com/tomas28/TP_SO_i3_9
+447 cd TP_SO_i3_9/
+448 git checkout diaz
+449 cat /proc/cpuinfo > CPUGamma.txt
+450 git add .
+451 git push
+452 git push -u
+453 git push -u origin diaz
+454 git commit -m "GammaEdit"
+455 git push -u origin diaz
+466 git branch -a
+467 git checkout master
+468 git pull
+468 git checkout garcia
+469 git pull origin garcia
+470 ifconfig
+471 git status
+472 git add .
+473 git commit -m "Gamma Push"
+474 git config --global user.email "nikolai14brc@gmail.com"
+475 git config --global user.name "Nicolas Diaz"
+476 git commit -m "Gamma Push"
+477 git push origin garcia
+478 git pull
+479 git add .
+480 git status
+481 git commit -m "fix"
+482 git push origin garcia
