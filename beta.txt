@@ -1,0 +1,43 @@
+Patricio Tomas Garcia 
+ifconfig:
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::fdaa:23be:aac3:48ec  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:1d:80:73  txqueuelen 1000  (Ethernet)
+        RX packets 96532  bytes 103441177 (103.4 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 29097  bytes 1984525 (1.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 555  bytes 61014 (61.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 555  bytes 61014 (61.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+hora:11:11
+
+Diaz, Lautaro Nicolas
+ifconfig:
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.44  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 2802:8000:692:b600:ef6a:64da:92c8:880c  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::ec0c:d056:d0a8:1722  prefixlen 64  scopeid 0x20<link>
+        inet6 2802:8000:692:b600:91a4:609a:1c0a:45f9  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:79:8a:2f  txqueuelen 1000  (Ethernet)
+        RX packets 70705  bytes 98866183 (98.8 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 9222  bytes 768873 (768.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 231  bytes 18256 (18.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 231  bytes 18256 (18.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+Hora: 11:18 a.m
